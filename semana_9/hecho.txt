@@ -1,0 +1,3 @@
+#En esta semana configuramos algunos pines gpios de la raspberry pi.
+
+--Creamos un programa en bash, python y c para configurarlo.

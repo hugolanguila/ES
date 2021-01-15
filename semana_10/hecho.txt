@@ -1,0 +1,5 @@
+
+# En esta semana hemos configurado la interfaz UART de la raspberry pi.
+
+# Deshabilitamos el servicio serial-getty@ttyS0
+
